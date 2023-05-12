@@ -7,6 +7,16 @@ So, you want you start making videos on YouTube, or you already are and are look
 1. [Recording and Editing Software]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#screen-recording-software) 
 2. [Music]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#music--sounds)
 3. [Stock Footage & Images]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#stock-footage)
+4. [Thumbnails]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#Thumbnails)
+
+#Thumbnails
+Preview your thumbnails before you post them
+- [TestMyThumbnails](https://www.testmythumbnails.com/)
+- [ThumbsupTv](https://thumbsup.tv/)
+
+A/B Test thumbnails
+- [TestMyThumbnails](https://www.testmythumbnails.com/about) 
+- [CreatorMl](https://creatorml.com/)
 
 # Screen Recording Software
 If you want to record a video game on your computer, or just your computer in general. You will need a screen recorder. Honestly, there really are very few choices that are worth considering.
