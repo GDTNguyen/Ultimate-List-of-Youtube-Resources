@@ -4,17 +4,17 @@
 So, you want you start making videos on YouTube, or you already are and are looking for more resources. This page is for you! This page is meant as a list of resources, guides, and other pointers to get you a good start for making videos. **Note that I will not be helping you pirate anything. All links provided here are to their official, legal websites.** 
 
 ## Table of Contents
-1. [Recording and Editing Software]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#screen-recording-software) 
-2. [Music]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#music--sounds)
-3. [Stock Footage & Images]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#stock-footage)
-4. [Thumbnails]([https://github.com/Flurdeh/Youtube-Resources](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources)#Thumbnails)
+1. [Recording and Editing Software](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources#screen-recording-software) 
+2. [Music](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources#music--sounds)
+3. [Stock Footage & Images](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources#stock-footage)
+4. [Thumbnails](https://github.com/GDTNguyen/Ultimate-List-of-Youtube-Resources#Thumbnails)
 
-#Thumbnails
+# Thumbnails
 Preview your thumbnails before you post them
 - [TestMyThumbnails](https://www.testmythumbnails.com/)
 - [ThumbsupTv](https://thumbsup.tv/)
 
-A/B Test thumbnails
+## A/B Test Thumbnails
 - [TestMyThumbnails](https://www.testmythumbnails.com/about) 
 - [CreatorMl](https://creatorml.com/)
 
